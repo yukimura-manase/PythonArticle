@@ -28,15 +28,20 @@ with sync_playwright() as p:
     # page.goto() で Playwright のサイトにアクセス
     page.goto(phone_number_search_web_url)
 
+    result_text = page.locator('.result').text_content()
+    print(result_text)
+
+    # #result-main-right > div.frame-728-orange-l > table > tbody > tr > td:nth-child(1) > div > dt:nth-child(2) > strong > a
+
     # html_content = page.content()  # ページのHTMLを取得
     # print(html_content)  # HTMLの内容を表示
 
     # Locator を使用して、Page内のHTML要素を取得する
 
     # 特定の要素のテキストを取得する
-    text = page.get_by_text("事業者名：")
-    print(text)
-    print(type(text))
+    # text = page.get_by_text("事業者名：")
+    # print(text)
+    # print(type(text))
 
     # Browser を閉じる。
     browser.close()
