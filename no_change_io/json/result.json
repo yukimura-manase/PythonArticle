@@ -1,0 +1,138 @@
+[
+  {
+    "industry_id": "01",
+    "industry": "コスメ・化粧品"
+  },
+  {
+    "industry_id": "02",
+    "industry": "アパレル・服飾雑貨・鞄・靴"
+  },
+  {
+    "industry_id": "03",
+    "industry": "ベビー・子ども用品"
+  },
+  {
+    "industry_id": "04",
+    "industry": "アクセサリー・装身具"
+  },
+  {
+    "industry_id": "05",
+    "industry": "インテリア・雑貨"
+  },
+  {
+    "industry_id": "06",
+    "industry": "日用品"
+  },
+  {
+    "industry_id": "07",
+    "industry": "ペット用品・動物"
+  },
+  {
+    "industry_id": "08",
+    "industry": "不動産・住宅"
+  },
+  {
+    "industry_id": "09",
+    "industry": "電機・家電"
+  },
+  {
+    "industry_id": "10",
+    "industry": "食品・飲料・酒類"
+  },
+  {
+    "industry_id": "11",
+    "industry": "ブライダル"
+  },
+  {
+    "industry_id": "12",
+    "industry": "小売・商業施設"
+  },
+  {
+    "industry_id": "13",
+    "industry": "飲食店"
+  },
+  {
+    "industry_id": "14",
+    "industry": "美容院・エステ・クリニック"
+  },
+  {
+    "industry_id": "15",
+    "industry": "観光・レジャー・スポーツ"
+  },
+  {
+    "industry_id": "16",
+    "industry": "ホテル・宿泊"
+  },
+  {
+    "industry_id": "17",
+    "industry": "交通・鉄道・空輸"
+  },
+  {
+    "industry_id": "18",
+    "industry": "自動車・バイク・カー用品"
+  },
+  {
+    "industry_id": "19",
+    "industry": "教育"
+  },
+  {
+    "industry_id": "20",
+    "industry": "放送・出版・音楽"
+  },
+  {
+    "industry_id": "21",
+    "industry": "金融・カード・保険"
+  },
+  {
+    "industry_id": "22",
+    "industry": "PR・広告代理店・デザイン制作会社"
+  },
+  {
+    "industry_id": "23",
+    "industry": "コンサルティング/運用代行"
+  },
+  {
+    "industry_id": "24",
+    "industry": "自治体・公共団体"
+  },
+  {
+    "industry_id": "25",
+    "industry": "リユース事業"
+  },
+  {
+    "industry_id": "26",
+    "industry": "レストア事業"
+  },
+  {
+    "industry_id": "27",
+    "industry": "設備機器"
+  },
+  {
+    "industry_id": "28",
+    "industry": "芸能"
+  },
+  {
+    "industry_id": "29",
+    "industry": "通販事業"
+  },
+  {
+    "industry_id": "30",
+    "industry": "商社"
+  },
+  {
+    "industry_id": "31",
+    "industry": "その他メーカー"
+  },
+  {
+    "industry_id": "32",
+    "industry": "その他サービス業"
+  },
+  {
+    "industry_id": "33",
+    "industry": "その他_士業"
+  },
+  {
+    "industry_id": "34",
+    "industry": "分類不能の産業"
+  }
+]

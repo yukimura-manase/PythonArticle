@@ -3,7 +3,7 @@ import os
 import csv
 import json
 
-csv_file = 'robotama.csv'
+csv_file = '業種分類_2.csv'
 
 csv_file_path = f'{os.getcwd()}/{csv_file}'
 
@@ -13,5 +13,5 @@ with open(csv_file_path, 'r') as csv_file:
     json_data = json.dumps([row for row in csv_data], ensure_ascii=False)  # ensure_ascii=False は、日本語をそのまま表示させるため。
 
 # JSONデータをファイルに保存する
-with open('robotama.json', 'w') as json_file:
+with open('industry_2.json', 'w') as json_file:
     json_file.write(json_data)
